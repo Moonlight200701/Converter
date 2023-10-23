@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Random Application</string>
+    <string name="textview">TextView</string>
+    <string name="myButton">myButton</string>
+    <string name="fireworks">Fireworks!</string>
+    <string name="cost_of_service">Cost Of Service</string>
+    <string name="how_was_the_fucking_service_maggot">How was the fucking SERVICE, MAGGOT</string>
+    <string name="amazing_20">Amazing (20%)</string>
+    <string name="good_18">Good (18%)</string>
+    <string name="okay_15">Okay (15%)</string>
+    <string name="tip_amount">Tip Amount: %s</string>
+</resources>
